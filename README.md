@@ -8,8 +8,8 @@ admin can grab special infected. and can be use grab in spectators mode.
 How to play:
 Double click "R" = Grab; Hold +speed Double click "R" = Super Grab; click "R" agin drop.
 Right-click = Throw; Hold +speed = Rocket launch.
-Middle-click = Reset mode
-if someone grab you, you press jump to break free.
+Middle-click = Reset mode.
+if someone grab you, you can press jump to break free.
 
 按键：双击 R = 普通抓取（240）；按住 +speed 双击 R = 超远抓取（1000）；
 持握中右键 = 投掷；持握中按住 +speed + 右键 = 大力投掷。
