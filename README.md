@@ -1,7 +1,8 @@
 L4D2-Pushdrag-plugin
 This is L4D2 Grab plugin for Pushdrag Ultimate FIX, you can grab teammate and item or prop. add many function.
-这是抓取插件的终极修复版，能让玩家抓取队友与各种物品，新增多种功能。
 admin can grab special infected. and can be use grab in spectators mode.
+
+这是抓取插件的终极修复版，能让玩家抓取队友与各种物品，新增多种功能。
 管理员可以抓取特感，甚至能在旁观者模式使用抓取功能。
 
 How to play:
