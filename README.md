@@ -185,7 +185,7 @@ https://forums.alliedmods.net/showthread.php?p=1325370
 
 ## 四、部署 / 升级
 
-1. **只保留一个 pushdrag 插件**：`l4d_pushdrag_v20.smx` 放入 `addons/sourcemod/plugins/`；旧版本移入 `plugins/disabled/`（当前 v13–v19 都已在 disabled）。
+1. **只保留一个 pushdrag 插件**：`l4d_pushdrag_v20.smx` 放入 `addons/sourcemod/plugins/`。
 2. `l4d_pushdrag.phrases.txt` 放入 `addons/sourcemod/translations/`。
 3. `l4d_pushdrag.cfg` 放入 `cfg/sourcemod/`（首次运行也会自动生成）。
 4. **不需要** `gamedata/l4d_pushdrag.txt`（v2.0 已删除）。
@@ -217,7 +217,7 @@ https://forums.alliedmods.net/showthread.php?p=1325370
 
 ---
 
-## 六、快速自测
+## 六、快速自测BUG修复
 
 - [ ] 抛掷 / 强投 / R 放下后，踩上物件不再弹飞。
 - [ ] 摔伤保护：`0` 关闭、`3` 保护 3 秒、`5` 保护 5 秒。
